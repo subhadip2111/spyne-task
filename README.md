@@ -1,4 +1,4 @@
-# MERN Stack Social Media Backend
+# Social Media Backend
 
 This project is a backend implementation for a social media application using the MERN stack (MongoDB, Express.js, React.js, and Node.js). It provides RESTful APIs for user management, discussions, comments, and other social media functionalities.
 
