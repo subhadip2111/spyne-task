@@ -30,11 +30,16 @@ The backend of this project supports the following functionalities:
 
 - Node.js
 - MongoDB
-
+-Express.js
+-Nodemon
+-Mongoose
+-JSON Web Token (JWT)
+-BCrypt
+-Multer
 ## Installation
 
 1. Clone the repository:
-   git clone https://github.com/yourusername/mern-social-media-backend.git
+   git clone :https://github.com/subhadip2111/spyne-task.git
    cd mern-social-media-backend
 
 2. Install dependencies:
